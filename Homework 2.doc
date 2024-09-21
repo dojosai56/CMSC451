@@ -1,0 +1,226 @@
+{\rtf1\ansi\ansicpg1252{\fonttbl{\f0\froman\fcharset0 Times New Roman;}{\f1\froman\fcharset0 Times New Roman;}{\f2\froman\fcharset0 Times New Roman;}{\f3\fswiss\fcharset0 Arial;}{\f4\froman\fcharset0 Times New Roman;}{\f5\froman\fcharset0 Times New Roman;}{\f6\froman\fcharset0 Times New Roman;}{\f7\froman\fcharset0 Times New Roman;}{\f8\froman\fcharset2 Symbol;}{\f9\froman\fcharset0 Cambria Math;}{\f10\froman\fcharset0 Times New Roman;}{\f11\fswiss\fcharset0 Calibri;}{\f12\fmodern\fcharset0 Courier New;}{\f13\fswiss\fcharset0 Calibri;}}{\colortbl ;\red0 \green0 \blue0;\red115 \green115 \blue115;\red0 \green0 \blue255;\red255 \green255 \blue255;}{\stylesheet{\sqformat\spriority1 Normal}{\s1\li820\fi-360\f7\fs24\sbasedon0\sqformat\spriority1 Body Text}{\s2\outlinelevel0\f5\fs24\b1\sbasedon0\sqformat\spriority1 Heading 1}{\s3\sbasedon0\sqformat\spriority1 List Paragraph}{\s4\sbasedon0\sqformat\spriority1 Table Paragraph}}{\*\listtable{\list\listtemplateid2181{\listlevel\levelnfc0\levelstartat1\leveljc0\li460\fi-360{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f7\fs24\b0\charscalex100}{\listlevel\levelnfc23\leveljc0\li820\fi-360{\leveltext\'01\uc1\u61623 ?;}{\levelnumbers;}\f8\fs22\b0\charscalex100}{\listlevel\levelnfc23\leveljc0\li1180\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li2170\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3160\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4150\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5140\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6130\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7120\fi-360{\leveltext\'01\'95;}{\levelnumbers;}}\listid1026}}{\*\listoverridetable{\listoverride\listoverridecount0\listid1026\ls1}}{\info{\author duane Jarc}{\creatim\yr2017\mo7\dy26\hr15\min32\sec55}{\revtim\yr2022\mo10\dy31\hr2\min16\sec16}}{\*\userprops {\propname Creator}\proptype30{\staticval Microsoft\'AE Word 2013}}\jexpand\dntblnsbdb\viewkind1\noxlattoyen\nospaceforul\paperw12240\paperh15840\margl1700\margr1440\margt1380\margb280\sectd\sbknone\pard\plain\s2\nooverflow\nocwrap\ri259\qc\sl240\slmult1\sb56\f5\fs24\b1 CMSC 451 Homework\expnd-1\expndtw-5  \expnd0\expndtw0 2\b0\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb7\f5\fs23\b1\i0\par\pard\plain\s3\ls1\ilvl0\nooverflow\nocwrap\li460\fi-360\ri358\sl240\slmult1\tx461\f7\fs24\b0 Given the following two\expnd0\expndtw-2  \expnd0\expndtw0 functions:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb2\f7\fs24\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl-292\tx820\f8\fs24\b0 \uc1\u61623 ?\f0 \tab \f6\i1 f\f7\i0 (\f6\i1 n\f7\i0 ) = 3\f6\i1 n\f7\fs16\i0\up9 2  \fs24\up0 +\expnd-5\expndtw-23  \expnd0\expndtw0 5\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl-292\tx820\f8\fs24\b0 \uc1\u61623 ?\f0 \tab \f6\i1 g\f7\i0 (\f6\i1 n\f7\i0 ) = 53\f6\i1 n \f7\i0 +\expnd-1\expndtw-4  \expnd0\expndtw0 9\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb4\f7\fs24\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl240\slmult1\f7\fs24\b0 Use \f10 L\'92Hopital\'92s rule and \f7 limits to prove or disprove each of the\expnd-2\expndtw-11  \expnd0\expndtw0 following:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb4\f7\fs24\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl240\slmult1\tx820\f8\fs24\b0 \uc1\u61623 ?\f0 \tab \f6\i1 f  \f8\fs22\i0 \uc1\u61646 ?\expnd1\expndtw6 \uc1\u61472 ?\f0\f8\expnd0\expndtw0 \uc1\u61527 ?\f7\fs24 (\f6\i1 g\f7\i0 )\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl240\slmult1\sb1\tx820\f8\fs24\b0 \uc1\u61623 ?\f0 \tab \f6\i1 g  \f8\fs22\i0 \uc1\u61646 ?\expnd0\expndtw2 \uc1\u61472 ?\f0\f8\expnd0\expndtw0 \uc1\u61521 ?\f7\fs24 (\f6\i1 f\f7\i0 )\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb8\f7\fs23\b0\i0\par\pard\plain\s3\ls1\ilvl0\nooverflow\nocwrap\li460\fi-360\ri358\sl240\slmult1\tx461\f7\fs24\b0 Rank the following functions from lowest asymptotic order to highest. List any two\expnd-2\expndtw-12  \expnd0\expndtw0 or\f7  more that are of the same order on the same\expnd-1\expndtw-6  \expnd0\expndtw0 line.\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl-448\tx820\f8\fs22\b0 \uc1\u61623 ?\f0 \tab \f9\fs24\charscalex105 2\fs17\up9 \uc1\u55349 ?\uc1\u56411 ?\up0\charscalex100\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl-316\tx820\f8\fs22\b0 \uc1\u61623 ?\f0 \tab \f9\fs24 \uc1\u55349 ?\uc1\u56411 ?\fs17\up9 3  \fs24\up0 +\expnd-1\expndtw-4  \expnd0\expndtw0 5\uc1\u55349 ?\uc1\u56411 ?\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\li820\fi-360\ri358\sl-257\tx821\f9\fs22\b0 log\fs16\dn5 2\expnd2\expndtw8  \fs22\expnd0\expndtw0\up0 \uc1\u55349 ?\uc1\u56411 ?\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl-269\tx820\f8\fs22\b0 \uc1\u61623 ?\f0 \tab \f9\expnd1\expndtw3 \uc1\u55349 ?\uc1\u56411 ?\fs16\up8 3  \fs22\expnd0\expndtw0\up0 + \expnd0\expndtw2 2\uc1\u55349 ?\uc1\u56411 ?\fs16\up8 2  \fs22\expnd0\expndtw0\up0 +\expnd-5\expndtw-26  \expnd0\expndtw0 1\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\li820\fi-360\ri358\sl-285\tx821\f9\fs22\b0\charscalex105 3\fs16\up8 n\up0\charscalex100\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\li820\fi-360\ri358\sl-257\tx821\f9\fs22\b0 log\fs16\dn5 3\expnd2\expndtw8  \fs22\expnd0\expndtw0\up0 \uc1\u55349 ?\uc1\u56411 ?\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl-283\tx820\f8\fs22\b0 \uc1\u61623 ?\f0 \tab \f9\expnd1\expndtw3 \uc1\u55349 ?\uc1\u56411 ?\fs16\up8 2  \fs22\expnd0\expndtw0\up0 + 5\uc1\u55349 ?\uc1\u56411 ? +\expnd-2\expndtw-8  \expnd0\expndtw0 10\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl-258\tx820\f8\fs22\b0 \uc1\u61623 ?\f0 \tab \f9 \uc1\u55349 ?\uc1\u56411 ?  log\fs16\dn5 2\expnd3\expndtw16  \fs22\expnd0\expndtw0\up0 \uc1\u55349 ?\uc1\u56411 ?\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl-297\tx820\f8\fs22\b0 \uc1\u61623 ?\f0 \tab \f9 10\uc1\u55349 ?\uc1\u56411 ? +\expnd1\expndtw7  \f13\expnd0\expndtw0 7\par
+{\shp{\*\shpinst
+\shpleft2664\shptop131\shpright2794\shpbottom151
+\shpfhdr0\shpwr3\shpwrk0\shpfblwtxt1\shplid74\shpz0
+\shpbxpage\shpbypara{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 130}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(129,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9144}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl-664\tx820\f8\fs22\b0\up2 \uc1\u61623 ?\f0 \tab \f9\up0 \uc1\u8730 ?\up2 \uc1\u55349 ?\uc1\u56411 ?\up0\par\pard\plain\s3\ls1\ilvl0\nooverflow\nocwrap\li460\fi-360\ri358\sl-245\tx461\f7\fs24\b0 Draw the recursion tree when \f6\i1 n \f7\i0 = 8, where \f6\i1 n \f7\i0 represents the length of the array, for\expnd-2\expndtw-11  \expnd0\expndtw0 the\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl240\slmult1\f7\fs24\b0 following recursive\expnd-1\expndtw-4  \expnd0\expndtw0 method:\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb5\f7\fs25\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl-226\f12\fs20\b0\cf3 int sum(int[] array, int first, int\expnd-3\expndtw-17  \expnd0\expndtw0 last)\cf1\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl-226\f12\fs20\b0\charscalex99\cf3 \'7B\charscalex100\cf1\par\pard\plain\s1\nooverflow\nocwrap\li940\fi-240\ri5663\sl240\slmult1\sb1\f12\fs20\b0\cf3 if (first ==\expnd-1\expndtw-3  \expnd0\expndtw0 last)\f12\charscalex99  \charscalex100 return\expnd-2\expndtw-8  \expnd0\expndtw0 array[first];\cf1\par\pard\plain\s1\nooverflow\nocwrap\li700\ri358\sl-226\sb1\f12\fs20\b0\cf3 int mid = (first + last) /\expnd-2\expndtw-11  \expnd0\expndtw0 2;\cf1\par\pard\plain\s1\nooverflow\nocwrap\li700\ri358\sl-226\f12\fs20\b0\cf3 return sum(array, first, mid) + sum(array, mid + 1,\expnd-4\expndtw-21  \expnd0\expndtw0 last);\cf1\par\pard\plain\s1\nooverflow\nocwrap\li460\ri358\sl-226\f12\fs20\b0\charscalex99\cf3 \'7D\charscalex100\cf1\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb6\f12\fs15\b0\i0\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\li820\fi-360\ri358\sl240\slmult1\sb55\tx821\f7\fs24\b0 Determine a formula that counts the numbers of nodes in the recursion\expnd-1\expndtw-3  \expnd0\expndtw0 tree.\fs24\cf1\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb9\f7\fs20\b0\i0\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\li820\fi-360\ri358\sl240\slmult1\tx821\f7\fs24\b0 What is the Big-\f8 \uc1\u61521 ?\uc1\u61472 ?\f0\f7 for execution\expnd0\expndtw-1  \expnd0\expndtw0 time?\fs24\cf1\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f7\fs20\b0\i0\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\li820\fi-360\ri358\sl240\slmult1\tx821\f7\fs24\b0 Determine a formula that expresses the height of the\expnd0\expndtw-2  \expnd0\expndtw0 tree.\fs24\cf1\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb9\f7\fs20\b0\i0\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\li820\fi-360\ri358\sl240\slmult1\tx821\f7\fs24\b0 What is the Big-\f8 \uc1\u61521 ?\uc1\u61472 ?\f0\f7 for\expnd0\expndtw-1  \expnd0\expndtw0 memory?\fs24\cf1\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb8\f7\fs22\b0\i0\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\li820\fi-360\ri115\sl-274\tx821\f7\fs24\b0 Write an iterative solution for this same problem and compare its efficiency with\expnd-3\expndtw-13  \expnd0\expndtw0 this\f7  recursive\expnd0\expndtw-1  \expnd0\expndtw0 solution.\fs24\cf1\par\sect\sectd\sbkpage\marglsxn1340\margrsxn980\cols1\colno1\colw9920\pard\plain\s3\ls1\ilvl0\nooverflow\nocwrap\li820\fi-360\ri609\sl240\slmult1\sb52\tx821\f7\fs24\b0 Using the recursive method in problem 3 and assuming \f6\i1 n \f7\i0 is the length of the\expnd-2\expndtw-9  \expnd0\expndtw0 array.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb6\f7\fs26\b0\i0\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\li1180\fi-360\ri609\sl-274\tx1181\f7\fs24\b0 Modify the recursion tree from the previous problem to show the amount of work\expnd-3\expndtw-14  \expnd0\expndtw0 on\f7  each activation and the row\expnd0\expndtw1  \expnd0\expndtw0 sums.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb9\f7\fs20\b0\i0\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\li1180\fi-360\ri609\sl240\slmult1\tx1181\f7\fs24\b0 Determine the initial conditions and recurrence\expnd-1\expndtw-3  \expnd0\expndtw0 equation.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb9\f7\fs20\b0\i0\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\li1180\fi-360\ri609\sl240\slmult1\tx1181\f7\fs24\b0 Determine the critical\expnd0\expndtw-1  \expnd0\expndtw0 exponent.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb9\f7\fs20\b0\i0\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\li1180\fi-360\ri609\sl240\slmult1\tx1181\f7\fs24\b0 Apply the Little Master Theorem to solve that\expnd-1\expndtw-6  \expnd0\expndtw0 equation.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb9\f7\fs20\b0\i0\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\li1180\fi-360\ri609\sl240\slmult1\tx1181\f7\fs24\b0 Explain whether this algorithm\expnd0\expndtw-2  \expnd0\expndtw0 optimal.\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\f7\fs21\b0\i0\par\pard\plain\s2\nooverflow\nocwrap\li361\qc\sl240\slmult1\f5\fs24\b1 Grading\expnd0\expndtw-2  \expnd0\expndtw0 Rubric\b0\par\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb4\f5\fs21\b1\i0\par
+\trowd\irow0\trgaph0\trrh-311\trql\trleft100
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\clcbpat2\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\clcbpat2\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\clcbpat2\cltxlrtb\cellx9803
+\pard\plain\intbl\s4\nooverflow\nocwrap\li695\sl240\slmult1\sb12{\f11\fs22\b1\cf4 Problem\b0\cf1}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\ri1\qc\sl240\slmult1\sb12{\f11\fs22\b1\cf4 Meets\b0\cf1}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li1183\sl240\slmult1\sb12{\f11\fs22\b1\cf4 Does Not\expnd0\expndtw-2  \expnd0\expndtw0 Meet\b0\cf1}\cell\row
+\trowd\irow1\trgaph0\trrh-310\trql\trleft100
+\clvmgf\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f5\fs22\b1\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f5\fs22\b1\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f5\fs22\b1\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1\sb1{\f5\fs28\b1\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\li616\sl240\slmult1{\f11\fs22\b1 Problem\expnd-1\expndtw-3  \expnd0\expndtw0 1\b0}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\ri1\qc\sl240\slmult1\sb11{\f11\fs22\b1 10\expnd-1\expndtw-4  \expnd0\expndtw0 points\b0}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\ri1\qc\sl240\slmult1\sb11{\f11\fs22\b1 0\expnd0\expndtw-1  \expnd0\expndtw0 points\b0}\cell\row
+\trowd\irow2\trgaph0\trrh-310\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\cell\row
+\trowd\irow3\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri738\sl240\slmult1{\f13\fs22\b0 Used L'Hopital's rule to\expnd-1\expndtw-6  \expnd0\expndtw0 correctly\f13\charscalex100  \charscalex100 determine limits\expnd-1\expndtw-6  \expnd0\expndtw0 (2)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri174\sl240\slmult1{\f13\fs22\b0 Did not use L'Hopital's rule to\expnd-2\expndtw-10  \expnd0\expndtw0 correctly\f13\charscalex100  \charscalex100 determine limits\expnd-1\expndtw-6  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow4\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri299\sl240\slmult1{\f13\fs22\b0 Provided correct proof or disproof\expnd-1\expndtw-7  \expnd0\expndtw0 of\f13\charscalex100  \charscalex100 Big-Theta relationship\expnd-2\expndtw-10  \expnd0\expndtw0 (4)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri354\sl240\slmult1{\f13\fs22\b0 Did not provide correct proof\expnd-2\expndtw-9  \expnd0\expndtw0 or\f13\charscalex100  \charscalex100 disproof of Big-Theta relationship\expnd-2\expndtw-8  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow5\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri299\sl240\slmult1{\f13\fs22\b0 Provided correct proof or disproof\expnd-2\expndtw-8  \expnd0\expndtw0 of\f13\charscalex100  \charscalex100 Big-Omega relationship\expnd-2\expndtw-8  \expnd0\expndtw0 (4)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri226\sl240\slmult1{\f13\fs22\b0 Did not provide correct proof\expnd-2\expndtw-9  \expnd0\expndtw0 or\f13\charscalex100  \charscalex100 disproof of Big-Omega relationship\expnd-2\expndtw-8  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow6\trgaph0\trrh-312\trql\trleft100
+\clvmgf\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f5\fs22\b1\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f5\fs22\b1\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f5\fs22\b1\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f5\fs22\b1\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f5\fs22\b1\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f5\fs22\b1\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\li616\sl240\slmult1\sb176{\f11\fs22\b1 Problem\expnd-1\expndtw-3  \expnd0\expndtw0 2\b0}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\ri1\qc\sl240\slmult1\sb13{\f11\fs22\b1 10\expnd-1\expndtw-4  \expnd0\expndtw0 points\b0}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\ri1\qc\sl240\slmult1\sb13{\f11\fs22\b1 0\expnd0\expndtw-1  \expnd0\expndtw0 points\b0}\cell\row
+\trowd\irow7\trgaph0\trrh-310\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\cell\row
+\trowd\irow8\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri707\sl240\slmult1{\f13\fs22\b0 Positioned exponential\expnd-1\expndtw-5  \expnd0\expndtw0 functions\f13\charscalex100  \charscalex100 correctly\expnd0\expndtw-2  \expnd0\expndtw0 (2)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri225\sl240\slmult1{\f13\fs22\b0 Did not position exponential\expnd-2\expndtw-8  \expnd0\expndtw0 functions\f13\charscalex100  \charscalex100 correctly\expnd0\expndtw-2  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow9\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri770\sl240\slmult1{\f13\fs22\b0 Positioned polynomial\expnd-2\expndtw-8  \expnd0\expndtw0 functions\f13\charscalex100  \charscalex100 correctly\expnd0\expndtw-2  \expnd0\expndtw0 (2)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri287\sl240\slmult1{\f13\fs22\b0 Did not position polynomial\expnd-2\expndtw-8  \expnd0\expndtw0 functions\f13\charscalex100  \charscalex100 correctly\expnd0\expndtw-2  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow10\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri146\sl240\slmult1{\f13\fs22\b0 Positioned constant functions\expnd-2\expndtw-9  \expnd0\expndtw0 correctly\f13\charscalex100  \charscalex100 (2)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri503\sl240\slmult1{\f13\fs22\b0 Did not position constant\expnd-1\expndtw-7  \expnd0\expndtw0 functions\f13\charscalex100  \charscalex100 correctly\expnd0\expndtw-2  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow11\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri755\sl240\slmult1{\f13\fs22\b0 Positioned logarithmic\expnd-2\expndtw-9  \expnd0\expndtw0 functions\f13\charscalex100  \charscalex100 correctly\expnd-1\expndtw-3  \expnd0\expndtw0 (2)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri271\sl240\slmult1{\f13\fs22\b0 Did not position logarithmic\expnd-2\expndtw-9  \expnd0\expndtw0 functions\f13\charscalex100  \charscalex100 correctly\expnd0\expndtw-2  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow12\trgaph0\trrh-612\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\sl-268{\f13\fs22\b0 Positioned root functions correctly\expnd-2\expndtw-10  \expnd0\expndtw0 (2)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri900\sl240\slmult1{\f13\fs22\b0 Did not position root\expnd-2\expndtw-8  \expnd0\expndtw0 functions\f13\charscalex100  \charscalex100 correctly\expnd0\expndtw-2  \expnd0\expndtw0 (0)}\cell\row\pard\sect\sectd\sbkpage\marglsxn1340\margrsxn980\margtsxn1360\pard\plain\s1\nooverflow\nocwrap\sl240\slmult1\sb11\f0\fs6\b0\i0\par
+\trowd\irow0\trgaph0\trrh-310\trql\trleft100
+\clvmgf\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\li616\sl240\slmult1\sb175{\f11\fs22\b1 Problem\expnd-1\expndtw-3  \expnd0\expndtw0 3\b0}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\ri1\qc\sl240\slmult1\sb13{\f11\fs22\b1 10\expnd-1\expndtw-4  \expnd0\expndtw0 points\b0}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\ri1\qc\sl240\slmult1\sb13{\f11\fs22\b1 0\expnd0\expndtw-1  \expnd0\expndtw0 points\b0}\cell\row
+\trowd\irow1\trgaph0\trrh-310\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\cell\row
+\trowd\irow2\trgaph0\trrh-612\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\sl-268{\f13\fs22\b0 Correctly drew recursion tree\expnd-2\expndtw-12  \expnd0\expndtw0 (2)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri339\sl237\slmult1\sb1{\f13\fs22\b0 Did not correctly draw recursion\expnd-2\expndtw-10  \expnd0\expndtw0 tree\f13\charscalex100  \charscalex100 (0)}\cell\row
+\trowd\irow3\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri102\sl240\slmult1{\f13\fs22\b0 Provided correct formula for number\expnd-2\expndtw-10  \expnd0\expndtw0 of\f13\charscalex100  \charscalex100 nodes\expnd0\expndtw-1  \expnd0\expndtw0 (2)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri501\sl240\slmult1{\f13\fs22\b0 Did not provide correct formula\expnd-2\expndtw-10  \expnd0\expndtw0 for\f13\charscalex100  \charscalex100 number of nodes\expnd-1\expndtw-6  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow4\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri946\sl240\slmult1{\f13\fs22\b0 Provided correct Big-Theta\expnd-1\expndtw-7  \expnd0\expndtw0 for\f13\charscalex100  \charscalex100 execution time\expnd-1\expndtw-6  \expnd0\expndtw0 (1)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri353\sl240\slmult1{\f13\fs22\b0 Did not provide correct Big-Theta\expnd-2\expndtw-10  \expnd0\expndtw0 for\f13\charscalex100  \charscalex100 execution time\expnd-1\expndtw-6  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow5\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri674\sl240\slmult1{\f13\fs22\b0 Provided correct formula for\expnd-2\expndtw-8  \expnd0\expndtw0 tree\f13\charscalex100  \charscalex100 heights\expnd0\expndtw-2  \expnd0\expndtw0 (2)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri501\sl240\slmult1{\f13\fs22\b0 Did not provide correct formula\expnd-2\expndtw-10  \expnd0\expndtw0 for\f13\charscalex100  \charscalex100 tree heights\expnd0\expndtw-2  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow6\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri143\sl240\slmult1{\f13\fs22\b0 Provided correct Big-Theta for\expnd-2\expndtw-10  \expnd0\expndtw0 memory\f13\charscalex100  \charscalex100 (1)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri353\sl240\slmult1{\f13\fs22\b0 Did not provide correct Big-Theta\expnd-2\expndtw-10  \expnd0\expndtw0 for\f13\charscalex100  \charscalex100 memory\expnd-1\expndtw-3  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow7\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\sl-266{\f13\fs22\b0 Wrote correct iterative solution\expnd-2\expndtw-9  \expnd0\expndtw0 (1)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri211\sl240\slmult1{\f13\fs22\b0 Did not write correct iterative\expnd-2\expndtw-11  \expnd0\expndtw0 solution\f13\charscalex100  \charscalex100 (0)}\cell\row
+\trowd\irow8\trgaph0\trrh-912\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri506\sl240\slmult1{\f13\fs22\b0 Provided correct comparison\expnd-1\expndtw-3  \expnd0\expndtw0 of\f13\charscalex100  \charscalex100 efficiency of recursive and\expnd-2\expndtw-9  \expnd0\expndtw0 iterative\f13\charscalex100  \charscalex100 solutions\expnd-1\expndtw-3  \expnd0\expndtw0 (1)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri232\sl240\slmult1{\f13\fs22\b0 Did not provide correct comparison\expnd-2\expndtw-8  \expnd0\expndtw0 of\f13\charscalex100  \charscalex100 efficiency of recursive and\expnd-1\expndtw-7  \expnd0\expndtw0 iterative\f13\charscalex100  \charscalex100 solutions\expnd-1\expndtw-3  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow9\trgaph0\trrh-310\trql\trleft100
+\clvmgf\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1{\f0\fs22\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\sl240\slmult1\sb7{\f0\fs28\b0\i0\par}\pard\plain\intbl\s4\nooverflow\nocwrap\li616\sl240\slmult1{\f11\fs22\b1 Problem\expnd-1\expndtw-3  \expnd0\expndtw0 4\b0}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\ri1\qc\sl240\slmult1\sb11{\f11\fs22\b1 10\expnd-1\expndtw-4  \expnd0\expndtw0 points\b0}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\ri1\qc\sl240\slmult1\sb11{\f11\fs22\b1 0\expnd0\expndtw-1  \expnd0\expndtw0 points\b0}\cell\row
+\trowd\irow10\trgaph0\trrh-310\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\cell\row
+\trowd\irow11\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri165\sl240\slmult1{\f13\fs22\b0 Correctly drew modified recursion\expnd-3\expndtw-13  \expnd0\expndtw0 tree\f13\charscalex100  \charscalex100 (2)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri794\sl240\slmult1{\f13\fs22\b0 Did not correctly draw\expnd-2\expndtw-8  \expnd0\expndtw0 modified\f13\charscalex100  \charscalex100 recursion tree\expnd-1\expndtw-4  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow12\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\sl-265{\f13\fs22\b0 Provided correct initial condition\expnd-1\expndtw-6  \expnd0\expndtw0 (1)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri126\sl240\slmult1{\f13\fs22\b0 Did not provide correct initial\expnd-2\expndtw-10  \expnd0\expndtw0 condition\f13\charscalex100  \charscalex100 (0)}\cell\row
+\trowd\irow13\trgaph0\trrh-610\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri281\sl240\slmult1{\f13\fs22\b0 Provided correct recurrence\expnd-1\expndtw-7  \expnd0\expndtw0 equation\f13\charscalex100  \charscalex100 (2)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri542\sl240\slmult1{\f13\fs22\b0 Did not provide correct\expnd-2\expndtw-9  \expnd0\expndtw0 recurrence\f13\charscalex100  \charscalex100 equation\expnd0\expndtw-1  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow14\trgaph0\trrh-612\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\sl-268{\f13\fs22\b0 Provided correct critical exponent\expnd-1\expndtw-6  \expnd0\expndtw0 (1)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri925\sl237\slmult1\sb1{\f13\fs22\b0 Did not provide correct\expnd-2\expndtw-9  \expnd0\expndtw0 critical\f13\charscalex100  \charscalex100 exponent\expnd-1\expndtw-3  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow15\trgaph0\trrh-814\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri220\sl240\slmult1{\f13\fs22\b0 Correctly applied Little\expnd-1\expndtw-4  \expnd0\expndtw0 Master\f13\charscalex100  \charscalex100 Theorem to correctly solve\expnd-2\expndtw-10  \expnd0\expndtw0 recurrence\f13\charscalex100  \charscalex100 equation\expnd0\expndtw-1  \expnd0\expndtw0 (3)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri221\sl240\slmult1{\f13\fs22\b0 Did not correctly apply Little\expnd-1\expndtw-7  \expnd0\expndtw0 Master\f13\charscalex100  \charscalex100 Theorem to correctly solve\expnd-2\expndtw-10  \expnd0\expndtw0 recurrence\f13\charscalex100  \charscalex100 equation\expnd0\expndtw-1  \expnd0\expndtw0 (0)}\cell\row
+\trowd\irow16\trgaph0\trrh-612\trql\trleft100
+\clvmrg\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx2280
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx6041
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw10\clbrdrl\brdrs\brdrcf1\brdrw10\clbrdrr\brdrs\brdrcf1\brdrw10\clbrdrb\brdrs\brdrcf1\brdrw10\cltxlrtb\cellx9803
+\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri751\sl237\slmult1\sb1{\f13\fs22\b0 Provided correct explanation\expnd-1\expndtw-4  \expnd0\expndtw0 of\f13\charscalex100  \charscalex100 whether algorithm is optimal\expnd-1\expndtw-5  \expnd0\expndtw0 (1)}\cell
+\pard\plain\intbl\s4\nooverflow\nocwrap\li103\ri232\sl237\slmult1\sb1{\f13\fs22\b0 Did not provide correct explanation\expnd-2\expndtw-11  \expnd0\expndtw0 of\f13\charscalex100  \charscalex100 whether algorithm is optimal\expnd-1\expndtw-5  \expnd0\expndtw0 (0)}\cell\row\pard}
